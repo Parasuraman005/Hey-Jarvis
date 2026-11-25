@@ -1,0 +1,10 @@
+vosk
+sounddevice
+pyttsx3
+requests
+fastapi
+uvicorn
+numpy
+customtkinter 
+pillow 
+psutil
